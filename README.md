@@ -34,8 +34,8 @@ It is designed to simplify hostel management using PHP, MySQL, and a clean dashb
   - Room number
   - Check-in date
   - Check-out date
-- 🛡 Secure database access using prepared statements
-- 🖥 Simple and responsive user interface
+- Secure database access using prepared statements
+-  Simple and responsive user interface
 
 ---
 
@@ -44,6 +44,9 @@ It is designed to simplify hostel management using PHP, MySQL, and a clean dashb
 - **Backend:** PHP
 - **Database:** MySQL
 - **Server:** Apache (XAMPP)
+
+![WhatsApp Image 2025-12-14 at 8 57 18 PM](https://github.com/user-attachments/assets/4d98f266-ac9f-4654-95eb-4d15d7bd3d64)
+
 
 
 
